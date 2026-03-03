@@ -27,10 +27,12 @@ membership inference
 model extraction
 prompt injection
 jailbreak llm
+agent prompt injection
 
 llm security
 llm safety alignment
 agent security
+agent safety
 inference security
 
 # Cryptography + AI combinations
